@@ -28,7 +28,7 @@ A detailed matrix mapping words to their memorability scores across the particip
 
 ## Access
 Download the dataset and associated scripts:
-[Dataset Download Link](#)
+[Dataset Download Link](https://github.com/mandalab/hindi-mem-datacard)
 
 ## Citation
 If you use this dataset, please cite:

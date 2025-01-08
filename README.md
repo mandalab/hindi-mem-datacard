@@ -1,0 +1,1 @@
+# hindi-mem-datacard
